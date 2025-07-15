@@ -1,35 +1,35 @@
-# IoT-Based Smart Home with Virtual Assistant
+# IoT Smart Home Virtual Assistant
 
-This project simulates an IoT-based smart home system using Python and a virtual assistant. It allows basic voice-like commands to control devices like lights, fan, AC, and doors.
+## Project Overview
+This project is an **IoT-based Smart Home System** integrated with a voice-controlled **Virtual Assistant** to automate home appliances, enhance energy efficiency, and improve home security. The system enables hands-free control of multiple devices, offering convenience and safety.
 
-## 📌 Features
-- Simulated control of home devices
-- Voice-like command processing
-- Realistic architecture layout
-- Beginner-friendly Python code
+## Features
+- Voice command interface to control home devices
+- Automation of lighting, temperature, and security systems
+- Real-time monitoring and control via IoT
+- Energy-saving features through smart scheduling
+- Secure communication between devices
 
-## 📁 Project Structure
+## Technologies Used
+- Python
+- Raspberry Pi / Arduino (or relevant IoT hardware)
+- MQTT / HTTP protocols for device communication
+- Speech recognition libraries (e.g., Google Speech API, SpeechRecognition)
+- Other libraries/tools (list your key ones here)
 
-iot-smart-home-virtual-assistant/
-├── assets/
-│ └── smart_home_diagram.png
-├── scripts/
-│ └── virtual_assistant_simulation.py
-├── README.md
+## Installation and Setup
 
-## 🧠 Sample Commands
-- Turn on the light
-- Turn off the fan
-- Lock the door
-- Unlock the door
-- Turn on the AC
+### Prerequisites
+- Python 3.x installed
+- Required Python packages: see `requirements.txt`
+- IoT hardware setup (Raspberry Pi, sensors, actuators, etc.)
 
-## 📸 Diagram
+### Steps
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/NBM-9/IOT-smart-home-virtual-assistant.git
+   cd IOT-smart-home-virtual-assistant
 
-![Smart Home Diagram](assets/smart_home_diagram.png)
-
-## 🧠 Run Instructions
-Copy and paste the Python code into any Python IDE (like Replit or VS Code) and run the simulation by typing your commands.
 
 Author:Namo bhavani Maganti 
 linkedin:https://www.linkedin.com/in/namomaganti/ 
