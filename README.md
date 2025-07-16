@@ -30,6 +30,8 @@ This project is an **IoT-based Smart Home System** integrated with a voice-contr
    git clone https://github.com/NBM-9/IOT-smart-home-virtual-assistant.git
    cd IOT-smart-home-virtual-assistant
 
+---
+**Note**: This project was developed as part of my Undergraduate studies in Engineering.
 
 Author:Namo bhavani Maganti 
 linkedin:https://www.linkedin.com/in/namomaganti/ 
